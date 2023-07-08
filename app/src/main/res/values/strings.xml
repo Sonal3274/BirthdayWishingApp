@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">BirthdayWishingApp</string>
+    <string name="Input_hint_text">Bday</string>
 </resources>
